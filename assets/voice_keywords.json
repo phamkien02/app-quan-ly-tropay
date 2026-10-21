@@ -1,0 +1,17 @@
+{
+  "income": [
+    "nhận", "được", "cho", "lương", "thưởng", "bán", "thu", "chuyển vào",
+    "hoàn tiền", "cổ tức", "trúng thưởng", "đối tác", "khách hàng", "gửi vào",
+    "được trả", "tiền về", "chuyển khoản", "lãi", "trả lại",
+    "bố mẹ cho", "mẹ gửi", "bố gửi", "học bổng", "làm thêm", "part time",
+    "đóng quỹ", "hoàn tiền phòng", "trả nợ"
+  ],
+  "spend": [
+    "mua", "ăn", "uống", "xăng", "đi lại", "taxi", "grab", "bus", "đi chợ",
+    "đặt", "nạp", "trả", "thanh toán", "tiêu", "tốn", "mất", "điện", "nước",
+    "wifi", "đi học", "học phí", "đám cưới", "du lịch", "game", "giày",
+    "quần áo", "nhà hàng", "cà phê", "đi chơi", "shopping",
+    "tiền phòng", "tiền trọ", "tiền điện", "tiền nước", "tiền mạng", "internet",
+    "giáo trình", "tài liệu", "đóng quỹ phòng", "chia tiền", "ăn lẩu"
+  ]
+}
